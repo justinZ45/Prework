@@ -52,7 +52,6 @@ class ViewController: UIViewController, UITextFieldDelegate{
     
     @IBAction func GoodbyeButton(_ sender: Any) {
         TextLabel.text = "Goodbye 👋"
-        hjgdsjgdsjgh
     }
     
     
