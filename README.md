@@ -5,7 +5,7 @@ This "hello world" app displays a default message to the user, with a colored ba
 
 ### App Walk-though
 
-<img src="file:///Users/justinzaluk/Desktop/ezgif.com-gif-maker.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/92334995/145934771-8fe6faff-3175-4783-86f9-5148f2d3ca90.gif"  width=200><br>
 
 
 ### Required User Stories
