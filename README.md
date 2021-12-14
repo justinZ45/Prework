@@ -1,7 +1,7 @@
 ## Hello World App
 
 ### App Description
-This "hello world" app displays a default message to the user, with a colored background and multiple buttons available. The "change text color" changes the displayed message to green, and the "change background view color" button changes the background color to pink. By pressing the background, values are reset to default. The user can use a test field to enter a custom message to be displayed. When the "change text string" button is pressed, the string is changed, and the keyboard is dismissed. If the text field is empty, a default message is displayed.
+This "hello world" app displays a default message to the user, with a colored background and multiple buttons available. The "change text color" changes the displayed message to green, and the "change background view color" button changes the background color to pink. By pressing the background, values are reset to default. The user can use a text field to enter a custom message to be displayed. When the "change text string" button is pressed, the string is changed, and the keyboard is dismissed. If the text field is empty, a default message is displayed.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after adding gif)
